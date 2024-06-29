@@ -1,0 +1,49 @@
+body{
+  background-image: url(/img/bg\ \(2\).jpg);
+  background-repeat:repeat no-repeat ;
+  background-size: cover;
+}
+.wrap1 {
+  display: flex;
+  gap: 30px;
+  justify-content: space-around;
+  align-items: center;
+}
+.link{
+   color: #FFFFFF;
+  
+}
+.dollar{
+  padding: 10px 10px 10px 10px;
+  color: #FFFFFF;
+
+  border: 1px solid #FFFFFF;
+  
+
+}
+.wrap2{
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn1{
+  
+ 
+  margin-left: 15px;
+  background: #D3320F;
+color: #FFFFFF;
+  border-radius: 20px;
+  padding: 10px;
+
+}
+h1{
+  font-size: 120px;
+margin: 0;
+}
+p{
+  font-size: 24px;
+}
+.box{
+  width: 500px;
+}
